@@ -1,0 +1,4 @@
+include ':mainapp'
+include ':userconsumer'
+include ':app'
+rootProject.name = "Submission3"
